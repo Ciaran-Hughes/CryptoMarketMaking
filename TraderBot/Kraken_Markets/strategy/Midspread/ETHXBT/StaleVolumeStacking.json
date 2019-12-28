@@ -1,0 +1,12 @@
+{
+    "_comment_" : "The keys are the bp above/below rpm in XBT units",
+    "_comment_" : "The values are the volumes to trade in XBT units",
+    "_comment_" : "Volumes converted to market units using Kraken Midspread",
+    "_comment_" : "volume distortion changes how much volume on this market", 
+    "_comment_" : "bp_distortion takes into account the spread distortion",   
+    "volume_distortion" : 0.15,
+    "bp_distortion" : 1.0,
+    "0.0002" : "0.05",
+    "0.0010" : "0.1",
+    "0.0015" : "0.15"
+}

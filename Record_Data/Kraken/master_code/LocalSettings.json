@@ -1,0 +1,9 @@
+{
+    "_comment_" : "Market",
+    "pair" : "market",    
+    "_comment_" : "How much data to pull from public trade history",
+    "_comment_" : "since is broken in Kraken API. ",
+    "since" : "None",
+    "_comment_" : "Time to sleep For before checking for new trades",
+    "sleep"  : 10
+}
